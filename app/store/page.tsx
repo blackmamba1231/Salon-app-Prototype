@@ -91,7 +91,7 @@ export default function StorePage() {
       price: 3200,
       rating: 4.8,
       reviews: 91,
-      image: "/balm.jpg?height=300&width=250",
+      image: "/Balm.jpg?height=300&width=250",
       description: "Conditioning balm for styling and moisturizing",
       inStock: true,
       featured: false,
